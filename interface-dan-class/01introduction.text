@@ -1,0 +1,5 @@
+Interface digunakan untuk mendfefinisikan properti sebuah objek.
+Hanya deklarasi saja, definisi nya harus ditulis di kode lain yang mengimplementasikan Interface itu.
+Jadi interface ibaratnya sebuah perjanjian/kontrak, kalo objek A
+memiliki/mengimplementasi interface B, maka objek A pasti punya properti yang
+didefinisikan di interface B.

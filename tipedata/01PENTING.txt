@@ -1,0 +1,24 @@
+Sebelum mempelajari lebih lanjut tentang typescript sangat dianjurkan mengerti minimal dasar dari javascript
+karena jika tidak akan selalu menemukan kesulitan saat mempelajari typescript,
+karena typescript adalah javascript yg ditambahkan type
+
+untuk mengetahui lebih lanjut mengenai TypeScript kamu dapat mencari refrensi di situs resmi ataupun forum yang membahas tentang typescript
+
+Dokumentasi ini dibuat hanya untuk pribadi jika ada yang baru belajar dan menggunakan Dokumentasi ini semoga membantu
+dan untuk yang sudah expert semoga bisa menjadi refrensi kedepannya.
+
+untuk pemula bisa mengikuti file dengan nomer yang ditentukan seperti 01 02 dst..
+
+Untuk menjalankan TypeScript saya menggunakan deno 
+Silahkan install deno di laptop anda jika ingin menjalankan typescript 
+
+* untuk menconvert ke javascript gunakan command `tsc nama_file_anda.ts` sebelumnya jangan lupa 
+  masuk ke directory folder anda terlebih dahulu.
+
+* untuk menjalankan typescript dengan deno gunakan command `deno run nama_file_anda.ts`
+
+
+
+
+okeeee let's do it ayo sama-sama belajar......!!!!!!!!!!!!!!!!
+
